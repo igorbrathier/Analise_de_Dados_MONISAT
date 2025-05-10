@@ -31,3 +31,4 @@ with sync_playwright() as p:
     browser.close()
 
 
+// esse código não esta funcionando pois o site "https://www.telecocare.com.br/mapaerbs/" esta fora temporariamente...
